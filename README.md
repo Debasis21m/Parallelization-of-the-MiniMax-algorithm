@@ -1,4 +1,4 @@
-= Parallelization of the MixiMax algorithm
+# Parallelization of the MixiMax algorithm
 
 The project contains 4 MiniMax implementations for the Tic Tac Toe game:
 - secvential version
@@ -6,7 +6,7 @@ The project contains 4 MiniMax implementations for the Tic Tac Toe game:
 - parallel version, using MPI
 - parallel version, using POSIX pthreads library
 
-== Results obtained with the 4x4 dimension of the game:
+## Results obtained with the 4x4 dimension of the game:
 
 Secvential version:
 	- 2m36.673s
