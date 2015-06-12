@@ -17,7 +17,7 @@ OpenMP:
 
 MPI:
 - 4 processes: 0m42.311s
-- 8 proecesses: 0m43.298s
+- 8 processes: 0m43.298s
 
 pthreads:
 - 4 threads: 0m49.723s
