@@ -8,7 +8,7 @@ The project contains 4 MiniMax implementations for the Tic Tac Toe game:
 
 ## Results obtained with the 4x4 dimension of the game:
 
-Secvential version:
+Sequential version:
 - 2m36.673s
 
 OpenMP:
